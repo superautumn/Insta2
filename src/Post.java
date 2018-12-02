@@ -7,4 +7,7 @@ public class Post {
     User[] marks;
     Location location;
     String photoURL;
+    Comment[] comments;
+    User[] whoLiked;
+    MediaFile content;
 }
