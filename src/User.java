@@ -8,4 +8,5 @@ public class User {
     String phone;
     boolean gender;
     MediaFile profilePhoto;
+    User[] followings;
 }
