@@ -5,4 +5,5 @@ public class Story {
     boolean isSaved;
     Date date;
     int view;
+    Otvet[] otvety;
 }
